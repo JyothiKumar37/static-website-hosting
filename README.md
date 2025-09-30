@@ -17,8 +17,8 @@ Setup & Deployment Steps
 
 Clone this repo locally
 
-git clone https://github.com/jyothikumar37/my-static-site.git
-cd my-static-site
+git clone https://github.com/jyothikumar37/static-website-hosting.git
+cd static-website-hosting
 
 
 Open index.html in a browser
