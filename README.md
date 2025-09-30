@@ -11,7 +11,7 @@ static-website-hosting/
 🚀 Live Website:
 
 The site is deployed at:
-👉 https://jyothikumar37.github.io/my-static-site/
+👉 https://jyothikumar37.github.io/static-website-hosting/
 
 Setup & Deployment Steps
 
