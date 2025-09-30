@@ -18,26 +18,32 @@ Setup & Deployment Steps
 Clone this repo locally
 
 git clone https://github.com/jyothikumar37/static-website-hosting.git
+
 cd static-website-hosting
 
 
 Open index.html in a browser
 
 open docs/index.html   # macOS
+
 start docs/index.html  # Windows
 
 
 Push to GitHub:
 
 git add .
+
 git commit -m "feat: add static website"
+
 git push origin main
 
 
 Enable GitHub Pages:
 
 Go to repo → Settings → Pages
+
 Select Branch: main and Folder: /docs
+
 Save changes
 
 Access live site
